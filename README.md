@@ -1,2 +1,2 @@
-# study-js
-study javascript
+# 学习javascript笔记
+项目中主要记录学习javascript的脚本文件
